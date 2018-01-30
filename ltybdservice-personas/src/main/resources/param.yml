@@ -1,0 +1,4 @@
+minUserInfoSize: 2000
+minInterval: 600
+maxInterval: 18000
+odInfoSize: 1000

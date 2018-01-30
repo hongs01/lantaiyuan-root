@@ -1,0 +1,5 @@
+bootstrapServers: 10.1.254.11:6667 #hadoop01:6667,hadoop02:6667,hadoop03:6667
+subscribeType: subscribe
+topic1: gw2app-handan
+topic2: gw2app-baoji
+checkpointLocation:
